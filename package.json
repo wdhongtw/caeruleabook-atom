@@ -1,7 +1,7 @@
 {
   "name": "caeruleabook",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A GitBook extension for Atom editor",
   "keywords": [
   ],
@@ -12,6 +12,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "remarkable": "^1.0.0"
   },
   "standard": {
     "globals": [
