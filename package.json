@@ -1,0 +1,21 @@
+{
+  "name": "caeruleabook",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "A GitBook extension for Atom editor",
+  "keywords": [
+  ],
+  "activationHooks": ["core:loaded-shell-environment"],
+  "repository": "https://github.com/wdhongtw/caeruleabook-atom",
+  "license": "GPL-3.0",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "standard": {
+    "globals": [
+      "atom"
+    ]
+  }
+}

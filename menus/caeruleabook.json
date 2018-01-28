@@ -1,0 +1,20 @@
+{
+  "context-menu": {
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "CaeruleaBook",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "caeruleabook:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
