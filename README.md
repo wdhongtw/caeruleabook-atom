@@ -10,6 +10,8 @@
 ## 1.0 Features
 
 - GitBook tree view
+  - Tree view folding ability
+  - Parse book title from `book.json`
 - Create new book (SUMMARY.md, README.md, ...)
 - Dialog to add new chapter
 
