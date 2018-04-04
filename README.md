@@ -1,5 +1,13 @@
 # CaeruleaBook - A GitBook extension for Atom editor
 
+This extension is still under development. All existing feature may be
+changed in the future.
+
+## Usage
+
+Toggle GitBook View by `caeruleabook:toggle` command or navigate through menu:
+`Package`, `CaeruleaBook` and `Toggle`.
+
 ## Links
 
 - [ToolChain Document](https://toolchain.gitbook.com/)
