@@ -12,6 +12,9 @@
 - GitBook tree view
   - Tree view folding ability
   - Parse book title from `book.json`
+  - Scroll bar in tree view
+  - Hilight modified or new article
+  - Pasive toggle state at editor start up
 - Create new book (SUMMARY.md, README.md, ...)
 - Dialog to add new chapter
 
