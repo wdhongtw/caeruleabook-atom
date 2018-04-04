@@ -4,4 +4,5 @@
 .caeruleabook-view-container {
   padding-left: 5px;
   padding-right: 10px;
+  overflow: auto;
 }
