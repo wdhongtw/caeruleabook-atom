@@ -23,6 +23,7 @@ Toggle GitBook View by `caeruleabook:toggle` command or navigate through menu:
   - Hilight modified or new article
   - Pasive toggle state at editor start up
   - Add README to TOC, and allow override chapter name other than `Introduction`
+  - Refresh book view when add new project
 - Create new book (SUMMARY.md, README.md, ...)
 - Dialog to add new chapter
 
